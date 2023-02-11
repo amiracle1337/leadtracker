@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    margin: 50px auto;
+    width: 500px;
+    font-family: 'Happy Monkey', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hero-section {
+    max-width: 80%;
+    height: 350px;
+    background-color: #fec905;
+    box-shadow: black 12px 10px 1px;
+    border-radius: 15px;
+}
+
+#hero-headline {
+    padding-top: 25px;
+    font-weight: 900;
+}
+
+#count-el {
+    font-size: 50px;
+}
+
+button {
+    width: 200px;
+    margin: 3px;
+    padding: 6px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Montserrat';
+    border-radius: 8px;
+    box-shadow: 3px 3px 1px black;
+    border: 1px solid black;
+}
+
+#save-btn {
+    color: white;
+    background-color: #229d2b;
+    }
+   
+   #increment-btn {
+       background-color: #ff5140;
+       color: white;
+   }
+   
+   #save-btn:hover {
+    background-color: #21bb2b;
+   }
+
+  #increment-btn:hover {
+    background-color: #f63625;
+   }
+
